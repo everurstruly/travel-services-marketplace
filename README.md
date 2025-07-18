@@ -1,6 +1,6 @@
-# Backsoon
+# Tripout
 
-Airbnb-like marketplace for booking stays &amp; tourism services, with messaging, reviews, and interactive discovery.
+Online marketplace for booking travel experiences & services, with interactive discovery and community engagement features.
 
 
 ## Features
