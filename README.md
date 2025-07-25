@@ -1,4 +1,4 @@
-# Outing
+# PointA
 
 Online marketplace for booking travel experiences & services, with interactive discovery and community engagement features.
 
