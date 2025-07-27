@@ -6,7 +6,7 @@ Online marketplace for booking travel experiences & services, with interactive d
 ## Features
 
 ### Setup
-- [ ] UI Design
+- [ ] UI Design + Sitemap
 - [ ] Landing Page
 - [ ] Authentication (Finder, Host, Operator)
 - [ ] Payments and Subscriptions Provider
