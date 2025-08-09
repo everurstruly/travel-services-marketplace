@@ -1,5 +1,5 @@
 {
-  "name": "Multi-Vendor-Travel-Marketplace",
+  "name": "multi-vendor-travel-marketplace",
   "private": true,
   "scripts": {
     "build": "turbo run build",
