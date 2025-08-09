@@ -1,4 +1,4 @@
-# PointA
+# A2B4D
 
 Online marketplace for booking travel experiences & services, with interactive discovery and community engagement features.
 
@@ -6,7 +6,8 @@ Online marketplace for booking travel experiences & services, with interactive d
 ## Features
 
 ### Setup
-- [ ] UI Design + Sitemap
+- [ ] Sitemap
+- [ ] UI Design
 - [ ] Landing Page
 - [ ] Authentication (Finder, Host, Operator)
 - [ ] Payments and Subscriptions Provider
