@@ -27,14 +27,15 @@ Online marketplace for booking travel experiences & services, with interactive d
 ### V2
 - [ ] Newsletter sign up 
 - [ ] SEO Optimization: social & browser 
-- [ ] Multi-linguinal support (Arabic, Russian, Chinese)
+- [ ] i18n Multi-linguinal support
 - [ ] Host's bookings calendar management
 - [ ] Leave and repy listing reviews
 
 ## V3
 - [ ] Credits based inquiry chat
-- [ ] Site operator management: users, listings, reviews & bookings 
-- [ ] Abandoned saves reminder with CRON Jobs
+- [ ] Strapi CMS integration 
+- [ ] Retool operator dashboard 
+- [ ] Abandoned saves reminder
 
 ### 😐 Possibilities
 - [ ] Listing Comparison
