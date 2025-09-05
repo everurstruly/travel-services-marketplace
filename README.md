@@ -13,42 +13,41 @@ Online marketplace for booking travel experiences & services, with interactive d
 - [ ] Payments and Subscriptions Provider
 
 ### MVP
-- [ ] Aggregated Listings Recommendations
-- [ ] Search and Filter Page for listings
-- [ ] View Listings Details
-- [ ] Book and Pay for a Listing
+- [ ] Listings landing pages
+- [ ] Search and filter listings 
+- [ ] View a Listing Details
+- [ ] Book and pay for a Listing
 - [ ] List a property
 - [ ] Update a listing
-- [ ] Write Frontend Tests
+- [ ] Bookmark listing 
+- [ ] Unit, Integration & E2E Frontend Tests
 
 ### V2
-- [ ] Bookings management calender
+- [ ] Newsletter sign up 
+- [ ] Host's bookings management w/calender
 - [ ] Leave listing reviews
 - [ ] Send listing inquiry message
-- [ ] Chat between host and booker
 - [ ] Email notifications
-- [ ] Save for later
+- [ ] Multi-linguinal support 
 
 ## V3
-- [ ] CRUD-only Control panel users, listings, reviews & bookings operations
-- [ ] Add Booker Privacy Subscription
-- [ ] Add Host Privacy Subscription
 - [ ] SEO Optimized sharing
+- [ ] Chat between host and booker
+- [ ] CRUD-only Control panel users, listings, reviews & bookings operations
+- [ ] Add booker privacy subscription
 - [ ] Tag Listings with CRON jobs
 
 ### 😐 Possibilities
 - [ ] Abandoned Saves with CRON Jobs
 - [ ] Listing Comparison
 - [ ] User setup profile
-- [ ] Leave listing reviews
-- [ ] PWA push notifications
+- [ ] Push otifications
 - [ ] More Control-Panel actions
 - [ ] Reply to reviews
 - [ ] Find Co-host near-by
 - [ ] Allow Hosts Payout
 - [ ] Replace polling with realtime communication
 - [ ] Multi-Currency Support
-- [ ] Multi-linguinal Support
 
 
 ## Feedback
