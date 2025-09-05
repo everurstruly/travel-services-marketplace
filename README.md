@@ -3,11 +3,11 @@
 Online marketplace for booking travel experiences & services, with interactive discovery and community engagement features.
 
 
-## Features
+## Roadmap 
 
-### Setup
+### Planning 
 - [ ] Sitemap
-- [ ] UI Design
+- [ ] UI/UX Design
 - [ ] Landing Page
 - [ ] Authentication (Finder, Host, Operator)
 - [ ] Payments and Subscriptions Provider
@@ -17,37 +17,33 @@ Online marketplace for booking travel experiences & services, with interactive d
 - [ ] Search and filter listings 
 - [ ] View a Listing Details
 - [ ] Book and pay for a Listing
+- [ ] Apply to be a host
 - [ ] List a property
 - [ ] Update a listing
-- [ ] Bookmark listing 
+- [ ] Bookmark a listing 
 - [ ] Unit, Integration & E2E Frontend Tests
+- [ ] Email notifications
 
 ### V2
 - [ ] Newsletter sign up 
-- [ ] Host's bookings management w/calender
-- [ ] Leave listing reviews
-- [ ] Send listing inquiry message
-- [ ] Email notifications
-- [ ] Multi-linguinal support 
+- [ ] SEO Optimization: social & browser 
+- [ ] Multi-linguinal support (Arabic, Russian, Chinese)
+- [ ] Host's bookings calendar management
+- [ ] Leave and repy listing reviews
 
 ## V3
-- [ ] SEO Optimized sharing
-- [ ] Chat between host and booker
-- [ ] CRUD-only Control panel users, listings, reviews & bookings operations
-- [ ] Add booker privacy subscription
-- [ ] Tag Listings with CRON jobs
+- [ ] Credits based inquiry chat
+- [ ] Site operator management: users, listings, reviews & bookings 
+- [ ] Abandoned saves reminder with CRON Jobs
 
 ### 😐 Possibilities
-- [ ] Abandoned Saves with CRON Jobs
 - [ ] Listing Comparison
 - [ ] User setup profile
-- [ ] Push otifications
-- [ ] More Control-Panel actions
-- [ ] Reply to reviews
+- [ ] Push notifications
 - [ ] Find Co-host near-by
-- [ ] Allow Hosts Payout
-- [ ] Replace polling with realtime communication
-- [ ] Multi-Currency Support
+- [ ] Payout hosts 
+- [ ] Realtime chat between hosts and bookers
+- [ ] Multi-Currency support
 
 
 ## Feedback
