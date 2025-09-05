@@ -7,10 +7,10 @@ Online marketplace for booking travel experiences & services, with interactive d
 
 ### Planning 
 - [ ] Sitemap
-- [ ] UI/UX Design
+- [ ] UI/UX design
 - [ ] Landing & in-development pages
-- [ ] Authentication (Finder, Host, Operator)
-- [ ] Payments and Subscriptions Provider
+- [ ] Nest & passport authentication 
+- [ ] Stripe payments and subscriptions
 
 ### MVP
 - [ ] Listings landing pages
